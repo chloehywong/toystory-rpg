@@ -41,7 +41,7 @@ function endGame() {
     iswaiting = true 
     const endMessage = wizard.health === 0 && monster.health === 0 ?
         "No victors - all creatures are dead" :
-        wizard.health > 0 ? "The Buzz Wins" :
+        wizard.health > 0 ? "Buzz Wins" :
             "The monster is Victorious"
 
     const endEmoji = wizard.health > 0 ? " 🚀 " : "☠️"
