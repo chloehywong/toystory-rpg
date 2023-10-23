@@ -1,16 +1,16 @@
 
 # Role-Playing Game - Mini JS Game
 
-Building an RPG game for two characters to battle by rolling the dice. 
+Building an RPG game for two characters to battle by rolling the dice. This project is developed from scratch with vanilla Javascript. 
 
 ## Game rules: 
 * Set the hero’s heath at 80 while the monsters at 20
 * Three dice for hero vs. one dice for monster
 * When the first monster loses, the second monster will join the battle.
-* The hero will need to against three monsters in total to determine the battle result. 
+* The hero will need to fight against three monsters in total to determine the battle result.
 
 ## Requirements
-* This project is built from scratch with vanilla Javascript, the UX experience can be improved by adding extra features in the future.
+* No requirements required. 
 
 ## Netlify Deployment
 
